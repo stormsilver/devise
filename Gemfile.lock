@@ -150,7 +150,7 @@ DEPENDENCIES
   omniauth-facebook
   omniauth-oauth2 (~> 1.0.0)
   omniauth-openid (~> 1.0.1)
-  rails (~> 3.2.6)
+  rails
   rdoc
   sqlite3
   webrat (= 0.7.2)
